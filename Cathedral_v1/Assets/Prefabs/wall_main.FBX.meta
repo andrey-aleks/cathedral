@@ -1,0 +1,299 @@
+fileFormatVersion: 2
+guid: d19c347c35b02164890950cc785270b8
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: pCube181
+  - first:
+      1: 100004
+    second: pCube182
+  - first:
+      1: 100006
+    second: pCube183
+  - first:
+      1: 100008
+    second: polySurface575
+  - first:
+      1: 100010
+    second: polySurface577
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: pCube181
+  - first:
+      4: 400004
+    second: pCube182
+  - first:
+      4: 400006
+    second: pCube183
+  - first:
+      4: 400008
+    second: polySurface575
+  - first:
+      4: 400010
+    second: polySurface577
+  - first:
+      21: 2100000
+    second: Material #17
+  - first:
+      21: 2100002
+    second: metol
+  - first:
+      21: 2100004
+    second: window_rama
+  - first:
+      21: 2100006
+    second: bricks
+  - first:
+      21: 2100008
+    second: wall_inside
+  - first:
+      21: 2100010
+    second: Wall Slot #5
+  - first:
+      21: 2100012
+    second: Material #14
+  - first:
+      23: 2300000
+    second: pCube181
+  - first:
+      23: 2300002
+    second: pCube182
+  - first:
+      23: 2300004
+    second: pCube183
+  - first:
+      23: 2300006
+    second: polySurface575
+  - first:
+      23: 2300008
+    second: polySurface577
+  - first:
+      33: 3300000
+    second: pCube181
+  - first:
+      33: 3300002
+    second: pCube182
+  - first:
+      33: 3300004
+    second: pCube183
+  - first:
+      33: 3300006
+    second: polySurface575
+  - first:
+      33: 3300008
+    second: polySurface577
+  - first:
+      43: 4300000
+    second: polySurface577
+  - first:
+      43: 4300002
+    second: pCube182
+  - first:
+      43: 4300004
+    second: pCube183
+  - first:
+      43: 4300006
+    second: polySurface575
+  - first:
+      43: 4300008
+    second: pCube181
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #14
+    second: {fileID: 2100000, guid: 579c2f75eaba2864ea6063fe1cebe7fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material #17
+    second: {fileID: 2100000, guid: 18050d413dc9211459dcf3df46bb2ed1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall Slot #5
+    second: {fileID: 2100000, guid: 06ff26cd2af2f47478e98394d95c0c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bricks
+    second: {fileID: 2100000, guid: e5e24cc2e0f38034c987903c2c8d37d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metol
+    second: {fileID: 2100000, guid: c9361bdae0ad36c42b7c844079ab8ae4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall_inside
+    second: {fileID: 2100000, guid: 09e209b2378a49d4b80a567bcf3e98de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: window_rama
+    second: {fileID: 2100000, guid: 950142a2c78bc0e4b820915b116386b6, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Finishes.Flooring.Wood.Plank.Beech
+    second: {fileID: 2800000, guid: abc86d7e8d121344fbebfffe193554ce, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GrungeWall021_ALPHAMASKED_3K
+    second: {fileID: 2800000, guid: c9eaa2801dd50784aa3e5ff58ed5fda6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GrungeWall021_GLOSS_3K
+    second: {fileID: 2800000, guid: a8287fe00f1741d458142fb0f7ffb622, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GrungeWall021_NRM_3K
+    second: {fileID: 2800000, guid: 4426c51b63a21904c8cae5d0aab528d3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: GrungeWall021_REFL_3K
+    second: {fileID: 2800000, guid: 5c7033aa8d3a3d444a3637b42c237cee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6
+    second: {fileID: 2800000, guid: d48a42353929d8c4d91939d9132ce06b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-ao
+    second: {fileID: 2800000, guid: 9139a5189feafb147843f656e86f4462, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-displacement
+    second: {fileID: 2800000, guid: 071308b73111ba747844f04827cfdb75, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-normalbump
+    second: {fileID: 2800000, guid: 1f7fb1e4ed5ec8f449f9af983d5c2572, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-reflection
+    second: {fileID: 2800000, guid: 022f0ca353044db40a861cc7a2c88435, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-roughness
+    second: {fileID: 2800000, guid: df8a7f54f63d08945b358422f6182533, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: "\u0434\u0438\u0432\u0430_\u0431\u0435\u0437\u0432\u043E\u043B\u043E\u0441"
+    second: {fileID: 2800000, guid: bc312aa12328e3140af04a38c7a5e583, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 2913a4ae9994a7f489cc3be6ef7eedb0
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: polySurface1124
+  - first:
+      1: 100002
+    second: polySurface1166
+  - first:
+      1: 100004
+    second: polySurface1168
+  - first:
+      1: 100006
+    second: polySurface1170
+  - first:
+      1: 100008
+    second: polySurface1173
+  - first:
+      1: 100010
+    second: polySurface1176
+  - first:
+      1: 100012
+    second: //RootNode
+  - first:
+      4: 400000
+    second: polySurface1124
+  - first:
+      4: 400002
+    second: polySurface1166
+  - first:
+      4: 400004
+    second: polySurface1168
+  - first:
+      4: 400006
+    second: polySurface1170
+  - first:
+      4: 400008
+    second: polySurface1173
+  - first:
+      4: 400010
+    second: polySurface1176
+  - first:
+      4: 400012
+    second: //RootNode
+  - first:
+      21: 2100000
+    second: bricks
+  - first:
+      21: 2100002
+    second: stucco_red
+  - first:
+      21: 2100004
+    second: stucco_white
+  - first:
+      23: 2300000
+    second: polySurface1124
+  - first:
+      23: 2300002
+    second: polySurface1166
+  - first:
+      23: 2300004
+    second: polySurface1168
+  - first:
+      23: 2300006
+    second: polySurface1170
+  - first:
+      23: 2300008
+    second: polySurface1173
+  - first:
+      23: 2300010
+    second: polySurface1176
+  - first:
+      33: 3300000
+    second: polySurface1124
+  - first:
+      33: 3300002
+    second: polySurface1166
+  - first:
+      33: 3300004
+    second: polySurface1168
+  - first:
+      33: 3300006
+    second: polySurface1170
+  - first:
+      33: 3300008
+    second: polySurface1173
+  - first:
+      33: 3300010
+    second: polySurface1176
+  - first:
+      43: 4300000
+    second: polySurface1168
+  - first:
+      43: 4300002
+    second: polySurface1170
+  - first:
+      43: 4300004
+    second: polySurface1173
+  - first:
+      43: 4300006
+    second: polySurface1176
+  - first:
+      43: 4300008
+    second: polySurface1124
+  - first:
+      43: 4300010
+    second: polySurface1166
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: bricks
+    second: {fileID: 2100000, guid: e5e24cc2e0f38034c987903c2c8d37d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stucco_red
+    second: {fileID: 2100000, guid: 3a629a3f174fa044cb5f17287f9f267d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: stucco_white
+    second: {fileID: 2100000, guid: d49924f24120a0b479eafbcae2abdd78, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6
+    second: {fileID: 2800000, guid: 691a1134e3f6f874aa1c02f2d43b7ff9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-ao
+    second: {fileID: 2800000, guid: a8295cef08f305f46b5d7c9f30223450, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-displacement
+    second: {fileID: 2800000, guid: cbc9efd794497394d8b89c406c1336bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-normalbump
+    second: {fileID: 2800000, guid: 325b531187b1f7f468e7f72a64ee7bd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-reflection
+    second: {fileID: 2800000, guid: d84301e013b7da446a790b71ef69a7bb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: brick-6-roughness
+    second: {fileID: 2800000, guid: fba4dac0c5ebf184292b1ec164820b62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Albedo
+    second: {fileID: 2800000, guid: afa59f1751ac2aa4191e46cb48da889f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Bump
+    second: {fileID: 2800000, guid: 25798c128083fcf4ba7f76af65f5ee59, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Displacement
+    second: {fileID: 2800000, guid: 5ac73853dc3034c4fa41e355f92f41b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Gloss
+    second: {fileID: 2800000, guid: 4b2eef09431bda941888a17e465f90e7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Normal
+    second: {fileID: 2800000, guid: 942e8772a9d666a4f9517ce840efe58a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Roughness
+    second: {fileID: 2800000, guid: b332970a51b4255499205944740e23bd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: pjBoU_4K_Specular
+    second: {fileID: 2800000, guid: a503523514bd49a42afbe7d09ceb65ce, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
